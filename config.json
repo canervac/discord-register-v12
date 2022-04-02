@@ -1,0 +1,36 @@
+{
+    "erkekRolleri": ["", ""],
+    "erkek1": "",
+    "kız1": "",
+    "kızRolleri": ["", ""],
+    "kayıtcıRolü": "",
+    "kayıtsızRolü": "",
+
+    "vipRolü": "",
+    "boosterRolü": "",
+    "Suspecious": "",
+    "Family": "",
+
+    "hgkanal": "bu kısmı hem burada hem index.js de ayarlaman gerekiyor",
+    "nick" : "İsim ' Yaş" ,
+
+
+
+    "tag": "",
+    "unTag": "",
+
+    "yes": "",
+    "no": "",
+
+    "footer": "Developed by schâwn",
+    "durum": "🖤 schâwn",
+    "botVoice": "",
+
+    "kurallar": "",
+    "guildID": "",
+
+    "token": "",
+    "prefix": ".",
+    "sahip": "585538770196103168"
+
+}
