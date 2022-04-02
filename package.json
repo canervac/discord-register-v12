@@ -1,6 +1,6 @@
 {
     "//1": "discord register v12",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "discord register v12",
     "main": "index.js",
     "scripts": {
